@@ -81,7 +81,7 @@ The architecture can be extended with an optometric knowledge base, external dat
 
 **Public Chat Interface**
 
-[Open OptiScreen AI](INSERIRE_LINK_CHAT)
+[Open OptiScreen AI] https://optiscreen.app.n8n.cloud/webhook/63812346-0c68-47d2-91b0-7eae13ab223e/chat
 
 **Explanatory Video**
 
