@@ -89,7 +89,7 @@ The architecture can be extended with an optometric knowledge base, external dat
 
 **Explanatory Image**
 
-![OptiScreen AI – Project A[rchitecture](https://drive.google.com/file/d/1ncgyLYQxVd43ZiwS6chrkJVkt3Q7P1VZ/view?usp=share_link)] 
+[rchitecture](https://drive.google.com/file/d/1ncgyLYQxVd43ZiwS6chrkJVkt3Q7P1VZ/view?usp=share_link)] 
 
 ## Testing and Validation
 
