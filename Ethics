@@ -1,0 +1,14 @@
+Ethics and Responsible AI
+
+OptiScreen AI is an educational prototype designed to support the preliminary analysis of visual symptoms and the identification of optometric tests that may be relevant for further investigation.
+
+The system has the following limitations and safeguards:
+
+* No medical diagnosis: the AI does not diagnose eye diseases or prescribe treatments.
+* Professional supervision: all suggestions must be reviewed and validated by a qualified optometrist or healthcare professional.
+* Urgent symptoms: potentially serious symptoms, such as sudden vision loss, severe eye pain or sudden double vision, require prompt medical evaluation.
+* Data privacy: the prototype should be tested exclusively with simulated or anonymized data. No identifiable patient information should be entered.
+* Transparency: the AI explains why it suggests specific tests and highlights missing information.
+* Human responsibility: the final decision always belongs to the healthcare professional.
+
+The project aims to demonstrate the responsible use of Artificial Intelligence in optometric education and preliminary assessment, without replacing professional judgment or clinical examination.
